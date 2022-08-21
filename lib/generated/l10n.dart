@@ -60,20 +60,20 @@ class S {
     );
   }
 
-  /// `Change locale to English`
+  /// `Change language to English`
   String get changeLocaleToEN {
     return Intl.message(
-      'Change locale to English',
+      'Change language to English',
       name: 'changeLocaleToEN',
       desc: '',
       args: [],
     );
   }
 
-  /// `Change locale to Thai`
+  /// `Change language to Thai`
   String get changeLocaleToTH {
     return Intl.message(
-      'Change locale to Thai',
+      'Change language to Thai',
       name: 'changeLocaleToTH',
       desc: '',
       args: [],

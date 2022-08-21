@@ -26,6 +26,6 @@ class MessageLookup extends MessageLookupByLibrary {
         "changeLocaleToEN":
             MessageLookupByLibrary.simpleMessage("เปลี่ยนภาษาเป็น English"),
         "changeLocaleToTH":
-            MessageLookupByLibrary.simpleMessage("เปลี่ยนสถานที่เป็นภาษาไทย")
+            MessageLookupByLibrary.simpleMessage("เปลี่ยนภาษาเป็นภาษาไทย")
       };
 }

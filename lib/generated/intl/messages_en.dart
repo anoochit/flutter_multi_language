@@ -25,8 +25,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "appTitle":
             MessageLookupByLibrary.simpleMessage("Multilingual app example"),
         "changeLocaleToEN":
-            MessageLookupByLibrary.simpleMessage("Change locale to English"),
+            MessageLookupByLibrary.simpleMessage("Change language to English"),
         "changeLocaleToTH":
-            MessageLookupByLibrary.simpleMessage("Change locale to Thai")
+            MessageLookupByLibrary.simpleMessage("Change language to Thai")
       };
 }
